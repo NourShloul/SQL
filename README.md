@@ -1,2 +1,2 @@
 # SQL
-SQL
+SQL tasks repo 
